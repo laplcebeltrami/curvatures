@@ -2,6 +2,8 @@
 
 The script computes the surface normals at faces and nodes, and computes the mean and Gaussian curvature via the local quadaratic surface parameterization. Run matlab Live Editor file SCRIPT.mlx. To use the sample brain surface data, unzip @gifti.zip file and set the path. The outcome should be the mean curvature computation
 
+![alt text](https://github.com/laplcebeltrami/curvatures/blob/main/190824-0001.png?raw=true)
+
 
 The brief explenation is gven in [1]. The mathematical detail is given in [2].
 
