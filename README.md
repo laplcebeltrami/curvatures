@@ -1,4 +1,4 @@
-# curvatures
+# Surfac mesh processing (normals, quadaric parameterization, curvatures)
 
 The code computes the surface normals at faces and nodes, and computes the mean and Gaussian curvature via the local quadaratic surface parameterization. The brief explenation is gven in [1]. The mathematical detail is given in [2].
 
