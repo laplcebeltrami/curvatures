@@ -1,6 +1,10 @@
 # Surfac mesh processing
 
-The code computes the surface normals at faces and nodes, and computes the mean and Gaussian curvature via the local quadaratic surface parameterization. The brief explenation is gven in [1]. The mathematical detail is given in [2].
+The code computes the surface normals at faces and nodes, and computes the mean and Gaussian curvature via the local quadaratic surface parameterization. Run matlab Live Editor file SCRIPT.mlx. The file outcome should be 
+
+
+
+The brief explenation is gven in [1]. The mathematical detail is given in [2].
 
 [1] Chung, M.K., Worsley, K.J., Robbins, S., Evans, A.C. 2003. Tensor-based brain surface modeling and analysis, CVPR, 467-473
 http://pages.stat.wisc.edu/~mchung/papers/CVPR/CVPR.pdf
